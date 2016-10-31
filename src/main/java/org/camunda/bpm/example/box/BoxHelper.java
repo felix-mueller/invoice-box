@@ -1,12 +1,5 @@
 package org.camunda.bpm.example.box;
 
-import java.io.InputStream;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpSession;
-
 import org.apache.commons.io.IOUtils;
 
 import com.box.sdk.*;
